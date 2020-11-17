@@ -15,6 +15,8 @@ winner = None
 
 # To check if the game is draw
 draw = None
+                              
+
 
 # To set the width and the heihr of the window
 width = 400
